@@ -1,4 +1,4 @@
-import { Rational } from "./class/Rational";
+import { Rational } from "./Rational";
 
 const main = (): void => {
   
